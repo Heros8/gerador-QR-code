@@ -1,0 +1,2 @@
+# gerador-QR-code
+
